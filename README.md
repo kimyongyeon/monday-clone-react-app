@@ -21,8 +21,15 @@
 	- antd, styled-component
 - STATE(상태관리)
 	- Redux
+- 테스트 코드 
+	- storybook : https://storybook.js.org/docs/react/get-started/introduction
+- lint 설정
+	- airbnb tslint 설정: https://ivvve.github.io/2019/10/09/js/ts/typescript-eslint&airbnb/
 - 언어 
 	- Typescript 
+- tools
+	- visual studio code 
+	- webstorm 
 
 # 폴더구조 정리
 - src

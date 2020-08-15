@@ -42,10 +42,10 @@
 	- 배포: github.io/master branch 
 	
 # 일정/프로젝트 
-- flow 
+- flow : https://flow.team/Invite/1fy8r2ok5eX7pU3k5xm8lc3C
 
 # 모임장소 
-- 노량진 
+- 노량진 : 최대한 온라인으로 만나서 작업 하지만 프로젝트 초기에는 자주 만나야 할것 같음.
 
 # 온라인 모임
 - 화요일/저녁9시 
